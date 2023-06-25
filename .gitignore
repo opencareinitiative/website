@@ -21,3 +21,7 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
